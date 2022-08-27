@@ -1,4 +1,4 @@
-# Juego-de-la-vida-JS
+# Juego-de-la-vida-Java
 
 El juego de la vida (de John Conway) tiene cuatro reglas simples:
 
@@ -15,7 +15,7 @@ Rojo= Viva
 Azul= Muerta
 
 
-# The-Game-Of-Life
+# The-Game-Of-Life-Java
 
 The Game of Life (by John Conway) has four simple rules:
 
